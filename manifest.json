@@ -1016,7 +1016,7 @@
           "source_path": "toolchains/ai/ops/local-llm-ops/SKILL.md"
         },
         {
-          "name": "mcp",
+          "name": "model-context-protocol",
           "version": "1.0.0",
           "category": "toolchain",
           "toolchain": "ai",
